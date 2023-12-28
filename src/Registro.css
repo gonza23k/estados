@@ -1,0 +1,30 @@
+/* Registro.css */
+
+/* Ajusta la altura del contenedor principal */
+.container-registration {
+    height: 80vh; /* Cambia según tus preferencias */
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+  }
+
+  
+  
+  /* Fondo blanco del formulario */
+  .container-registration {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+.formulary input {
+  margin-top: 5px;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.formulary input::placeholder {
+background-color: #ffffff;
+border-width: 1px; /* Ajusta el grosor del borde */
+border-radius: 5px;
+}

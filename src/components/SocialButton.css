@@ -1,0 +1,23 @@
+/* SocialButton.css */
+
+.social-button {
+    width: 40px; /* Ajusta el tamaño del botón según tus necesidades */
+    height: 40px; /* Ajusta el tamaño del botón según tus necesidades */
+    border: 1px solid black;
+    background-color: white;
+    padding: 0;
+    margin-right: 10px; /* Ajusta el espacio entre botones según tus necesidades */
+  }
+  
+  .button-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .fa-icon {
+    color: black;
+    font-size: 1.5em; /* Ajusta el tamaño del icono según tus necesidades */
+  }
+  
